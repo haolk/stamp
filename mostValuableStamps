@@ -1,0 +1,126 @@
+{
+  "message": "Success",
+  "status": 200,
+  "data": [
+    {
+      "images": [
+        "12877389",
+        "0"
+      ],
+      "stampId": "1208229",
+      "name": "Ferdinando II",
+      "country": "Sicily",
+      "issuedOn": "1859-01-01"
+    },
+    {
+      "images": [
+        "5954339",
+        "0"
+      ],
+      "stampId": "877637",
+      "name": "9-Kreuzer misprint",
+      "country": "Baden",
+      "issuedOn": "1851-07"
+    },
+    {
+      "images": [
+        "4434192",
+        "0"
+      ],
+      "stampId": "740641",
+      "name": "Numeral 2",
+      "country": "Hawaii",
+      "issuedOn": "1851-10-01"
+    },
+    {
+      "images": [
+        "4053195",
+        "4053196"
+      ],
+      "stampId": "695691",
+      "name": "Benjamin Franklin (1706-1790), leading author and politician",
+      "country": "United States of America",
+      "issuedOn": "1851-07-01"
+    },
+    {
+      "images": [
+        "1803438",
+        "0"
+      ],
+      "stampId": "437465",
+      "name": "Red Revenue, Small Figure",
+      "country": "China",
+      "issuedOn": "1897-02-02"
+    },
+    {
+      "images": [
+        "2342361",
+        "0"
+      ],
+      "stampId": "347307",
+      "name": "Signature and Ship",
+      "country": "British Guiana",
+      "issuedOn": "1856-02"
+    },
+    {
+      "images": [
+        "5055247",
+        "0"
+      ],
+      "stampId": "337665",
+      "name": "Dr. Sun Yat-sen - CNC Surcharge",
+      "country": "China",
+      "issuedOn": "1946-09"
+    },
+    {
+      "images": [
+        "1139134",
+        "0"
+      ],
+      "stampId": "300443",
+      "name": "Issues of 1847",
+      "country": "Mauritius",
+      "issuedOn": "1847"
+    },
+    {
+      "images": [
+        "502625",
+        "0"
+      ],
+      "stampId": "101853",
+      "name": "Curtiss Jenny, Center Inverted",
+      "country": "United States of America",
+      "issuedOn": "1918-05-13"
+    },
+    {
+      "images": [
+        "7773917",
+        "2425860"
+      ],
+      "stampId": "1564",
+      "name": "King Edward VII",
+      "country": "United Kingdom of Great Britain & Northern Ireland",
+      "issuedOn": "1902-01-01"
+    },
+    {
+      "images": [
+        "121186",
+        "2425751"
+      ],
+      "stampId": "1434",
+      "name": "Penny Red (Queen Victoria)",
+      "country": "United Kingdom of Great Britain & Northern Ireland",
+      "issuedOn": "1855-01"
+    },
+    {
+      "images": [
+        "121177",
+        "2425752"
+      ],
+      "stampId": "1425",
+      "name": "Queen Victoria - Two Pence Blue",
+      "country": "United Kingdom of Great Britain & Northern Ireland",
+      "issuedOn": "1840-05-06"
+    }
+  ]
+}
